@@ -1,9 +1,24 @@
-@import "./partials/font.scss";
-*{
-    margin: 0;
-    font-family: Avenir;
+@font-face {
+  font-family: roboto;
+  src: url("../assets/fonts/RobotoSlab-Bold.ttf");
 }
 
-p{
-    font-size: 16px;
+* {
+  margin: 0;
+  font-family: Avenir;
+  margin: auto;
+  text-align: center;
+  background-color: #071d30;
+  color: #f9e9da;
+  font-family: roboto;
+}
+
+h1 {
+  margin-top: 5vh;
+  margin-bottom: 50px;
+  //   font-size: 16px;
+}
+
+iframe {
+  border: solid 4px #010508;
 }
