@@ -1,68 +1,119 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Phillip%20Kellogg&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Web%20Developer%20%F0%9F%9A%80&descAlignY=54&descAlign=50" width="100%"/>
 
-In the project directory, you can run:
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Phillip+%F0%9F%91%8B;Full-Stack+Web+Developer;Building+cool+stuff+on+the+web;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-### `npm start`
+<br/>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<!-- Social Badges -->
+[![GitHub](https://img.shields.io/badge/GitHub-PhillipKellogg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhillipKellogg)
+[![Profile Views](https://komarev.com/ghpvc/?username=PhillipKellogg&style=for-the-badge&color=F97316)](https://github.com/PhillipKellogg)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+</div>
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🙋 About Me
 
-### `npm run build`
+```javascript
+const phillip = {
+  name: "Phillip Kellogg",
+  role: "Full-Stack Web Developer",
+  location: "🌍 Earth",
+  currentlyBuilding: "Something awesome...",
+  funFact: "I debug with console.log and I'm not ashamed 😄",
+  openTo: ["Collaborations", "New Projects", "Cool Ideas"]
+};
+```
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## 🛠️ Tech Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<div align="center">
 
-### `npm run eject`
+**Frontend**
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Backend**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+**Tools & Platforms**
 
-## Learn More
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+</div>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 📊 GitHub Stats
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+<div align="center">
 
-### Analyzing the Bundle Size
+<img src="https://github-readme-stats.vercel.app/api?username=PhillipKellogg&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=ffffff&rank_icon=github" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PhillipKellogg&theme=radical&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316" width="48%" />
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+<br/>
 
-### Making a Progressive Web App
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhillipKellogg&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=ffffff" width="40%" />
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+</div>
 
-### Advanced Configuration
+---
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+## 🏆 GitHub Trophies
 
-### Deployment
+<div align="center">
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+<img src="https://github-profile-trophy.vercel.app/?username=PhillipKellogg&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
 
-### `npm run build` fails to minify
+</div>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+---
+
+## 🎮 Featured Project
+
+<div align="center">
+
+[![dungeonCrawl](https://github-readme-stats.vercel.app/api/pin/?username=PhillipKellogg&repo=dungeonCrawl&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=ffffff)](https://github.com/PhillipKellogg/dungeonCrawl)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhillipKellogg/PhillipKellogg/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PhillipKellogg/PhillipKellogg/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PhillipKellogg/PhillipKellogg/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect & Build Something Together!
+
+*"First, solve the problem. Then, write the code." – John Johnson*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
