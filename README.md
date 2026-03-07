@@ -1,119 +1,81 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Phillip%20Kellogg&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Web%20Developer%20%F0%9F%9A%80&descAlignY=54&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8f4fd,50:c5e3f7,100:a8d4f5&height=180&section=header&text=Phillip%20Kellogg&fontSize=48&fontColor=1a3a5c&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%20%E2%80%94%20%20Greater%20Toronto%20Area&descAlignY=58&descAlign=50&descSize=15&descFontColor=2d6a9f" width="100%"/>
 
-<!-- Typing Animation -->
+<br/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Phillip+%F0%9F%91%8B;Full-Stack+Web+Developer;Building+cool+stuff+on+the+web;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=2d6be4&center=true&vCenter=true&width=580&lines=Vue+3+%7C+React+%7C+TypeScript+%7C+Laravel;6%2B+years+in+large-scale+frontend+architecture;Founder+%40+FaradayDev+%F0%9F%94%8C;Senior+Application+Developer+%40+CIBC+%F0%9F%8F%A6" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Social Badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-PhillipKellogg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhillipKellogg)
-[![Profile Views](https://komarev.com/ghpvc/?username=PhillipKellogg&style=for-the-badge&color=F97316)](https://github.com/PhillipKellogg)
-
-</div>
-
----
-
-## 🙋 About Me
-
-```javascript
-const phillip = {
-  name: "Phillip Kellogg",
-  role: "Full-Stack Web Developer",
-  location: "🌍 Earth",
-  currentlyBuilding: "Something awesome...",
-  funFact: "I debug with console.log and I'm not ashamed 😄",
-  openTo: ["Collaborations", "New Projects", "Cool Ideas"]
-};
-```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PhillipKellogg&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=ffffff&rank_icon=github" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PhillipKellogg&theme=radical&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316" width="48%" />
+[![Portfolio](https://img.shields.io/badge/faradaydev.ca-2d6be4?style=flat-square&logo=vercel&logoColor=white)](https://faradaydev.ca)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/PhillipKellogg-555?style=flat-square&logo=github&logoColor=white)](https://github.com/PhillipKellogg)
+&nbsp;
+[![Location](https://img.shields.io/badge/📍%20Greater%20Toronto%20Area-c5e3f7?style=flat-square&logoColor=1a3a5c)](#)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhillipKellogg&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=ffffff" width="40%" />
+</div>
+
+---
+
+### 👋 About
+
+Fullstack engineer with **6+ years** specializing in frontend architecture — large-scale SPA migrations, component systems from scratch, and owning the full stack from routing and state to performance and testing.
+
+Founder of [**FaradayDev**](https://faradaydev.ca), my independent software contracting practice. Currently a **Senior Application Developer at CIBC**.
+
+---
+
+### 💼 Experience
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=e8f4fd&height=4&section=header" width="100%"/>
+
+**🏦 CIBC** &nbsp;·&nbsp; Senior Application Developer &nbsp;·&nbsp; `Feb 2026 — Present`
+
+**⛪ Tithe.ly** &nbsp;·&nbsp; Software Engineer &nbsp;·&nbsp; `Mar 2021 — Feb 2026`
+
+**🏠 Rentsync** &nbsp;·&nbsp; Software Engineer &nbsp;·&nbsp; `Oct 2020 — Mar 2021`
+
+
+**⚡ Savvy Sale** &nbsp;·&nbsp; Junior Software Engineer &nbsp;·&nbsp; `Apr 2020 — Aug 2020`
+
+
+---
+
+### 🛠️ Stack
+
+<div align="center">
+
+![Vue.js](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vue.js&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+### 🔌 FaradayDev
+
+My independent contracting practice — serious frontend thinking, clean architecture, real delivery.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PhillipKellogg&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
+[![Visit faradaydev.ca](https://img.shields.io/badge/%E2%86%92%20%20faradaydev.ca-2d6be4?style=for-the-badge&logo=vercel&logoColor=white)](https://faradaydev.ca)
 
 </div>
 
----
+<br/>
 
-## 🎮 Featured Project
-
-<div align="center">
-
-[![dungeonCrawl](https://github-readme-stats.vercel.app/api/pin/?username=PhillipKellogg&repo=dungeonCrawl&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=ffffff)](https://github.com/PhillipKellogg/dungeonCrawl)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhillipKellogg/PhillipKellogg/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PhillipKellogg/PhillipKellogg/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/PhillipKellogg/PhillipKellogg/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's Connect & Build Something Together!
-
-*"First, solve the problem. Then, write the code." – John Johnson*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8d4f5,50:c5e3f7,100:e8f4fd&height=110&section=footer" width="100%"/>
