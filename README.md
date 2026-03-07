@@ -12,7 +12,7 @@
 
 [![Portfolio](https://img.shields.io/badge/faradaydev.ca-2d6be4?style=flat-square&logo=vercel&logoColor=white)](https://faradaydev.ca)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/PhillipKellogg-555?style=flat-square&logo=github&logoColor=white)](https://github.com/PhillipKellogg)
+[![LinkedIn](https://img.shields.io/badge/Phillip%20Kellogg-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phillip-kellogg/)
 &nbsp;
 [![Location](https://img.shields.io/badge/📍%20Greater%20Toronto%20Area-c5e3f7?style=flat-square&logoColor=1a3a5c)](#)
 
